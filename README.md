@@ -22,10 +22,14 @@
      
  [References](References)
 
+
 ### **Project Overview**
 
  This is a data visualization using power bi to alert the insight into the salary spent on both active and non active employee, by visualizing various aspects of the hr data set, we seek to identify trends, gain deeper understaing on how salary funds are been spent,to also dectect the non active and not fully meet employees
-     
+
+ 
+     ![Screenshot (21)](https://github.com/lacreameo83/Hr-Dashboard/assets/142677806/625a1acd-66fb-4845-bc69-52c98d0a0304)
+
 ### **Project Source** 
 
  Hr Dataset: from "Hr-dataset-csv" containg all the details of the employees in the organization.
@@ -77,6 +81,9 @@ in the initial data preparation phase, we performed the following tasks:
  Based on my findings, we recommend the following action:
  
 - Non-active employees receive nearly the same average salary as active employees, prompting consideration for either salary reductions or replacement with active workers. Additionally, active and fully meeting employees should be prioritized for promotion and incentivized to maintain high performance levels.
+
+
+![Screenshot (20)](https://github.com/lacreameo83/Hr-Dashboard/assets/142677806/8db44f2f-25f6-4da0-878b-2f31c8ff7eb5)
 
 ### **Limitations**
 -There are no constraints; I utilized the precise dataset without altering any figures.
