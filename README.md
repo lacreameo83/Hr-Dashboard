@@ -1,7 +1,7 @@
 # **Hr-Dashboard**
 
-### I created this Hr. Dashboard to  allow Human Resource teams to track, analyze and report on the salary spent on emplyees
-
+ I created this Hr. Dashboard to  allow Human Resource teams to track, analyze and report on the salary spent on emplyees
+ 
 ## **Table of contents**
 
  [project overview](project-overview)
