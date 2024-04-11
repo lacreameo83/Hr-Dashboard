@@ -51,29 +51,34 @@ in the initial data preparation phase, we performed the following tasks:
 
 ### Results findings 
 
-The analiysis results are summerlized as follows:
-1. The company spents 21.5 million on salary
-2. 15 million on male
-3. 7 million on non active employee
-4. The company spends more on us citizens
-5. people that are both active and fully meets are:
-   
-   - Candie Calvin
-   - Anderson,Linda
-   - Billis Helen
-   - Harrison,kera
-   - Lindsay,Leonared
-   - jeonnite
-   - Tayen
+ The analysis findings can be summarized as follows:
+
+1. The company's salary expenditure amounts to $21.5 million.
+
+2. $15 million is allocated to male employees.
+
+3. $7 million is spent on non-active employees.
+
+4. The company invests more in U.S. citizens.
+
+5. Employees who are both active and fully meeting the requirements include:
+
+    - Candie Calvin
+    - Linda Anderson
+    - Helen Billis
+    - Kera Harrison
+    - Leonared Lindsay
+    - Jeonnite
+    - Tayen
 
  ### Recommendations 
 
  Based on my findings, we recommend the following action:
- - non active employee earns almost same aavearge as active employee, their salary be cut or replayed with an active worker
- - active and fully meets emplyoee should be promoted and encoraged
+ 
+- Non-active employees receive nearly the same average salary as active employees, prompting consideration for either salary reductions or replacement with active workers. Additionally, active and fully meeting employees should be prioritized for promotion and incentivized to maintain high performance levels.
 
 ### Limitations
-- no limitation i used the accurate dataset,i didt change any figure
+-There are no constraints; I utilized the precise dataset without altering any figures.
 
 ### References
 
