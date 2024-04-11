@@ -8,4 +8,5 @@
 ### Tools
 
 - Excel -Data cleaning
-- Power bi - Data visualization [Download here]([https://drive.google.com/drive/folders/1joRp9EbNHDf4fCMHE38aUGr1nzAfW2wr?usp=sharing](https://drive.google.com/drive/folders/1uv7sQbk31k0IOnBJWHx3f2gSRtck12qL?usp=sharing)
+- Power bi - Data visualization
+  -[Download here](https://drive.google.com/drive/folders/1uv7sQbk31k0IOnBJWHx3f2gSRtck12qL?usp=sharing)
