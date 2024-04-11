@@ -1,8 +1,8 @@
-# Hr-Dashboard
+# **Hr-Dashboard**
 
-## I created this Hr. Dashboard to  allow Human Resource teams to track, analyze and report on the salary spent on emplyees
+### I created this Hr. Dashboard to  allow Human Resource teams to track, analyze and report on the salary spent on emplyees
 
-## Table of contents
+## **Table of contents**
 
  [project overview](project-overview)
  
@@ -22,11 +22,11 @@
      
  [References](References)
 
-### project overview
+### **project overview**
 
  This is a data visualization using power bi to alert the insight into the salary spent on both active and non active employee, by visualizing various aspects of the hr data set, we seek to identify trends, gain deeper understaing on how salary funds are been spent,to also dectect the non active and not fully meet employees
      
-### Project Source 
+### **Project Source** 
 
  Hr Dataset: from "Hr-dataset-csv" containg all the details of the employees in the organization.
  
@@ -36,21 +36,21 @@
 - Power bi - Data visualization and crearting reports
    - [Download here](https://drive.google.com/drive/folders/1uv7sQbk31k0IOnBJWHx3f2gSRtck12qL?usp=sharing)
 
-### Data cleaning and preparation
+### **Data cleaning and preparation**
 
 in the initial data preparation phase, we performed the following tasks:
 1. data loading and inspection
 2. handing of missing values
 3. data cleaning and formatting
 
-### Exploratory Data Analysis
+### **Exploratory Data Analysis**
 
 - what is the overall salary spent?
 - staffs that are both active and meets the organization requiremwnt?
 - where are the employee located?
 - how much spent on non active employee?
 
-### Results findings 
+### **Results findings** 
 
  The analysis findings can be summarized as follows:
 
@@ -72,16 +72,16 @@ in the initial data preparation phase, we performed the following tasks:
     - Jeonnite
     - Tayen
 
-### Recommendations 
+### **Recommendations** 
 
  Based on my findings, we recommend the following action:
  
 - Non-active employees receive nearly the same average salary as active employees, prompting consideration for either salary reductions or replacement with active workers. Additionally, active and fully meeting employees should be prioritized for promotion and incentivized to maintain high performance levels.
 
-### Limitations
+### **Limitations**
 -There are no constraints; I utilized the precise dataset without altering any figures.
 
-### References
+### **References**
 
 1. youtube
 2. udemy classes on power bi
