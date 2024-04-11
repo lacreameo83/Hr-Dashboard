@@ -22,13 +22,11 @@
      
  [References](References)
 
-
 ### **Project Overview**
 
  This is a data visualization using power bi to alert the insight into the salary spent on both active and non active employee, by visualizing various aspects of the hr data set, we seek to identify trends, gain deeper understaing on how salary funds are been spent,to also dectect the non active and not fully meet employees
 
- 
-     ![Screenshot (21)](https://github.com/lacreameo83/Hr-Dashboard/assets/142677806/625a1acd-66fb-4845-bc69-52c98d0a0304)
+ ![Screenshot (21)](https://github.com/lacreameo83/Hr-Dashboard/assets/142677806/9f57b202-838d-43c4-a6d9-d2512ccc9e7c)
 
 ### **Project Source** 
 
