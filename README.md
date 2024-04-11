@@ -1,8 +1,8 @@
 # Hr-Dashboard
 
-## I created this Hr. Dashboard to  allow Human Resource teams to track, analyze and report on the salary spent on emplyees.
+## I created this Hr. Dashboard to  allow Human Resource teams to track, analyze and report on the salary spent on emplyees
 
- ## Table of contents
+## Table of contents
 
  [project overview](project-overview)
  
@@ -22,7 +22,7 @@
      
  [References](References)
 
- ### project overview
+### project overview
 
  This is a data visualization using power bi to alert the insight into the salary spent on both active and non active employee, by visualizing various aspects of the hr data set, we seek to identify trends, gain deeper understaing on how salary funds are been spent,to also dectect the non active and not fully meet employees
      
